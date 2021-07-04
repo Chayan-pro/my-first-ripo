@@ -7,3 +7,7 @@ h1{
     background-color: palegreen;
     color: white;
 }
+img{
+    border-top-right-radius: 13px;
+    border-bottom-right-radius: 13px;
+}
